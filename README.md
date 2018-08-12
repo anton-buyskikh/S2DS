@@ -1,4 +1,4 @@
-# S2DS - Introduction to Azure 13th August
+# S2DS - Introduction to Azure - 13th August 2018
 
 This repository contains the image files needed for the custom vision service demo.
 
